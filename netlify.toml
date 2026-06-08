@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://script.google.com/macros/s/AKfycbxSFF6ETEyj-cUuXhC9VvhY3zmGBJeNbDzBqNybmtSOeu5T8QFUoac1Sxsm-ZyIsDVP/exec"
+  to = "https://script.google.com/macros/s/AKfycbzX_2gw8IhPhpZW1VhG8bRD9_--IC1GzhJ3V7MTR3LSuunsDX9kmN814rQoRTs_YhXu/exec"
   status = 301
   force = true
